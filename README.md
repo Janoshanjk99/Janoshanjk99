@@ -1,3 +1,4 @@
+![logo}(https://github.com/Janoshanjk99/profile-readme/blob/main/conva%20cover%202.png)
 <h1 align="center">Hi 👋, I'm Janoshan</h1>
 <h3 align="center">I'm an undergraduate at uva wellassa university</h3>
 
